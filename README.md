@@ -2,7 +2,7 @@
 This is repository for data pipeline using GCP Pubsub. This repository do publisher and subscriber using python client
 
 
-![Flow](assets/highlevel-flow.png)
+![Flow](src/assets/highlevel-flow.png)
 
 
 ## Run Locally
